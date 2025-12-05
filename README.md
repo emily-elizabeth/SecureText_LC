@@ -1,2 +1,2 @@
 # SecureText_LC
-Secure Text written in Livecode
+Secure Text saves your text out in an encrypted formatted.
